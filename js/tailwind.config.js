@@ -8,6 +8,7 @@ tailwind.config = {
           gold:'#F9BD2C',
           black:' #151515',
           gray:'#737373',
+          dots:'rgba(106, 77, 244, 0.1)',
         },
         maxWidth: {
             container:'1320px',
