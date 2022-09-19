@@ -9,6 +9,7 @@ tailwind.config = {
           black:' #151515',
           gray:'#737373',
           dots:'rgba(106, 77, 244, 0.1)',
+          menu:'rgba(156, 158, 254, 0.2)',
         },
         maxWidth: {
             container:'1320px',
